@@ -1,5 +1,5 @@
 # 超星学习通自动考试脚本
-考试脚本：![chaoxing-exam.user.js](chaoxing-exam.user.js)<br>
+考试脚本：[chaoxing-exam.user.js](chaoxing-exam.user.js)<br>
 部分代码由AI辅助完成<br>
 自动完成超星学习通上期末考试的油猴脚本，使用AI答题<br>
 使用前需安装**篡改猴/篡改猴测试版**
